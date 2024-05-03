@@ -115,11 +115,7 @@
       "colors.pink.800": "S:fa8a7be08599832b971752d010447f437ba5dfd6,",
       "colors.pink.900": "S:8883a9ae971d75b5053305878234b7504bc85c00,"
     },
-    "selectedTokenSets": {
-      "core": "enabled",
-      "light": "enabled",
-      "theme": "enabled"
-    },
+    "selectedTokenSets": {},
     "group": "Primero"
   }
 ]
