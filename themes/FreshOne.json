@@ -11,7 +11,12 @@
       "fontWeight": "Bold"
     }
   },
-  "BaseWeight": {
+  "Bold": {
+    "$extensions": {
+      "studio.tokens": {
+        "modify": {}
+      }
+    },
     "$type": "fontWeights",
     "$value": "Bold"
   }
