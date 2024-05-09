@@ -1,0 +1,18 @@
+{
+  "Fam": {
+    "$type": "fontFamilies",
+    "$value": "Inter"
+  },
+  "Base": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "{Fam}",
+      "fontSize": "12px",
+      "fontWeight": "Bold"
+    }
+  },
+  "BaseWeight": {
+    "$type": "fontWeights",
+    "$value": "Bold"
+  }
+}

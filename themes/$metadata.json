@@ -3,6 +3,7 @@
     "brand-base/core",
     "brand-base/starter",
     "brand-shade/dark",
-    "brand-shade/light"
+    "brand-shade/light",
+    "FreshOne"
   ]
 }
