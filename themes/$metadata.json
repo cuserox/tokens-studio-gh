@@ -1,9 +1,6 @@
 {
   "tokenSetOrder": [
-    "brand-base/core",
-    "brand-base/starter",
-    "brand-shade/dark",
-    "brand-shade/light",
-    "FreshOne"
+    "fresh-colors",
+    "brand-base/core"
   ]
 }
