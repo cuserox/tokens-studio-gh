@@ -19,5 +19,21 @@
     },
     "$type": "fontWeights",
     "$value": "Bold"
+  },
+  "hot-pink": {
+    "$type": "color",
+    "$value": "#fc04b2"
+  },
+  "hot-purple": {
+    "$type": "color",
+    "$value": "#9602fc"
+  },
+  "pink-border": {
+    "$type": "border",
+    "$value": {
+      "color": "{hot-pink}",
+      "width": "1px",
+      "style": "solid"
+    }
   }
 }
