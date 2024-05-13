@@ -35,5 +35,25 @@
       "width": "1px",
       "style": "solid"
     }
+  },
+  "Small": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "{Fam}",
+      "fontSize": "8px"
+    }
+  },
+  "hello-world-theme": {
+    "base-text": {
+      "idle-status": {
+        "square": {
+          "$type": "composition",
+          "$value": {
+            "typography": "{Base}",
+            "minWidth": "100px"
+          }
+        }
+      }
+    }
   }
 }
