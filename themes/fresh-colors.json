@@ -54,6 +54,46 @@
           }
         }
       }
+    },
+    "idle-status": {
+      "square-cta": {
+        "title": {
+          "$type": "typography",
+          "$value": "{very-long-square.wrapping-text-behaviour-token-name.white-background-label-action.ghost-variant.large-cta-just-for-testing-purposes.try-and-break-this-search-box}"
+        }
+      }
+    },
+    "a-very-long-color-name": {
+      "try-to-break": {
+        "square-cta": {
+          "$type": "color",
+          "$value": "#14f805"
+        }
+      }
+    }
+  },
+  "very-long-square": {
+    "wrapping-text-behaviour-token-name": {
+      "white-background-label-action": {
+        "ghost-variant": {
+          "large-cta-just-for-testing-purposes": {
+            "try-and-break-this-search-box": {
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {}
+                }
+              },
+              "$type": "typography",
+              "$value": {
+                "fontFamily": "Arial",
+                "fontWeight": "500",
+                "fontSize": "14px",
+                "lineHeight": "1.5"
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
