@@ -99,5 +99,11 @@
   "give-me-a-super-long-color-name-to-break-the-search-like-highlight-button": {
     "$type": "color",
     "$value": "#e4fa02"
+  },
+  "asdfghjkl;sdfghjkldfghjkldfghjklzfgdfghfdghsdghdfghdfghfgsdfgasdfsdfgsdghsdghdfghsdghsdf": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "{Fam}"
+    }
   }
 }
