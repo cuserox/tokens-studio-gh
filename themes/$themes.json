@@ -1,5 +1,15 @@
 [
   {
+    "id": "26afcbe9d588c7eb018483a642798a344590b5a1",
+    "name": "Segundo",
+    "$figmaStyleReferences": {
+      "Base": "S:a3c08ae5d952abb7e66711b4aac306615d2fbe6a,"
+    },
+    "selectedTokenSets": {
+      "fresh-colors": "enabled"
+    }
+  },
+  {
     "id": "aeba39acc210eb649d02907653927ca39f960550",
     "name": "Hola",
     "$figmaStyleReferences": {
@@ -116,19 +126,9 @@
       "colors.pink.900": "S:8883a9ae971d75b5053305878234b7504bc85c00,"
     },
     "selectedTokenSets": {},
-    "group": "Primero",
     "$figmaCollectionId": "VariableCollectionId:89:127",
     "$figmaModeId": "89:1",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "26afcbe9d588c7eb018483a642798a344590b5a1",
-    "name": "Segundo",
-    "$figmaStyleReferences": {
-      "Base": "S:a3c08ae5d952abb7e66711b4aac306615d2fbe6a,"
-    },
-    "selectedTokenSets": {
-      "fresh-colors": "enabled"
-    }
+    "$figmaVariableReferences": {},
+    "group": "Primero"
   }
 ]
