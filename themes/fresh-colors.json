@@ -28,7 +28,12 @@
     "$type": "color",
     "$value": "#9602fc"
   },
-  "pink-border": {
+  "pink-borderr": {
+    "$extensions": {
+      "studio.tokens": {
+        "modify": {}
+      }
+    },
     "$type": "border",
     "$value": {
       "color": "{hot-pink}",
