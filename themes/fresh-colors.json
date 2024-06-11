@@ -110,5 +110,9 @@
     "$value": {
       "fontFamily": "{Fam}"
     }
+  },
+  "a-new-color-to-push": {
+    "$type": "color",
+    "$value": "#eef492"
   }
 }
