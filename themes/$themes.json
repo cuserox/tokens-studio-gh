@@ -7,6 +7,17 @@
     },
     "selectedTokenSets": {
       "fresh-colors": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:314:2",
+    "$figmaModeId": "314:0",
+    "$figmaVariableReferences": {
+      "Fam": "901cafef7002ec296c04deab6d7e65da204a11ca",
+      "Bold": "3c38da1d82dcfafc7c5b0309898a42584193e4d9",
+      "hot-pink": "703a1ddde3ee02c2472501c25356275db0267eb2",
+      "hot-purple": "852ff3a547014b709c0495dc5abd29f86130cc1f",
+      "hello-world-theme.a-very-long-color-name.try-to-break.square-cta": "38912b0f0a3e81eb62de28dbbad58f7f1fcb97d7",
+      "give-me-a-super-long-color-name-to-break-the-search-like-highlight-button": "e53e145ed6bfa99035bdc62bad4def73f3b24085",
+      "a-new-color-to-push": "aa4e373c13e9e0baeedc2044b2493ea9335fb1cc"
     }
   },
   {
