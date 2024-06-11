@@ -1,7 +1,7 @@
 [
   {
     "id": "26afcbe9d588c7eb018483a642798a344590b5a1",
-    "name": "Segundo",
+    "name": "Adios",
     "$figmaStyleReferences": {
       "Base": "S:a3c08ae5d952abb7e66711b4aac306615d2fbe6a,"
     },
@@ -18,7 +18,8 @@
       "hello-world-theme.a-very-long-color-name.try-to-break.square-cta": "38912b0f0a3e81eb62de28dbbad58f7f1fcb97d7",
       "give-me-a-super-long-color-name-to-break-the-search-like-highlight-button": "e53e145ed6bfa99035bdc62bad4def73f3b24085",
       "a-new-color-to-push": "aa4e373c13e9e0baeedc2044b2493ea9335fb1cc"
-    }
+    },
+    "group": "Segundo"
   },
   {
     "id": "aeba39acc210eb649d02907653927ca39f960550",
