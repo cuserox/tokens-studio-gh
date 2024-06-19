@@ -1,0 +1,78 @@
+{
+  "fg": {
+    "default": {
+      "$type": "color",
+      "$value": "{colors.black}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{colors.gray.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{colors.gray.600}"
+    }
+  },
+  "bg": {
+    "default": {
+      "$type": "color",
+      "$value": "{colors.white}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{colors.gray.200}"
+    }
+  },
+  "accent": {
+    "default": {
+      "$type": "color",
+      "$value": "{colors.accent.500}"
+    },
+    "onAccent": {
+      "$type": "color",
+      "$value": "{colors.onAccent.default}"
+    },
+    "bg": {
+      "$type": "color",
+      "$value": "{colors.accent.400}"
+    }
+  },
+  "shadows": {
+    "default": {
+      "$type": "color",
+      "$value": "{colors.gray.900}"
+    }
+  },
+  "border": {
+    "default": {
+      "$type": "color",
+      "$value": "{colors.gray.300}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{colors.gray.200}"
+    }
+  },
+  "contrast": {
+    "bg": {
+      "default": {
+        "$type": "color",
+        "$value": "{colors.gray.100}"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{colors.gray.100}"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "{colors.gray.700}"
+      },
+      "muted": {
+        "$type": "color",
+        "$value": "{colors.gray.700}"
+      }
+    }
+  }
+}
