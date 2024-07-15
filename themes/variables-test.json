@@ -12,9 +12,9 @@
     "$value": "#e7f289"
   },
   "rgba-vibe": {
-    "value": "rgba({red} {yellow})",
+    "value": "rgba({red}, {yellow}, {red}, 0.2)",
     "type": "color",
     "$type": "color",
-    "$value": "rgba({red} {yellow})"
+    "$value": "rgba({red}, {yellow}, {red}, 0.2)"
   }
 }

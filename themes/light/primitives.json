@@ -108,13 +108,13 @@
   "base-space": {
     "value": "12px",
     "type": "spacing",
-    "$type": "spacing",
-    "$value": "12px",
     "reference-test": {
       "value": "{base-space}",
       "type": "spacing",
       "$type": "spacing",
       "$value": "{base-space}"
-    }
+    },
+    "$type": "spacing",
+    "$value": "12px"
   }
 }

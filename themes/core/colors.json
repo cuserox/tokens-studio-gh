@@ -252,8 +252,6 @@
   "rgb-color": {
     "value": "rgb(255, 0, 0);",
     "type": "color",
-    "$type": "color",
-    "$value": "rgb(255, 0, 0);",
     "foo-copy": {
       "value": "{rgb-color}",
       "type": "color",
@@ -265,6 +263,8 @@
       "type": "color",
       "$type": "color",
       "$value": "{rgb-color}"
-    }
+    },
+    "$type": "color",
+    "$value": "rgb(255, 0, 0);"
   }
 }
