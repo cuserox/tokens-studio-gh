@@ -1,54 +1,76 @@
 {
   "fg": {
     "default": {
+      "value": "{colors.black}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.black}"
     },
     "muted": {
+      "value": "{colors.gray.700}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.gray.700}"
     },
     "subtle": {
+      "value": "{colors.gray.600}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.gray.600}"
     }
   },
   "bg": {
     "default": {
+      "value": "{colors.white}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.white}"
     },
     "subtle": {
+      "value": "{colors.gray.200}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.gray.200}"
     }
   },
   "accent": {
     "default": {
+      "value": "{colors.accent.500}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.accent.500}"
     },
     "onAccent": {
+      "value": "{colors.onAccent.default}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.onAccent.default}"
     },
     "bg": {
+      "value": "{colors.accent.400}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.accent.400}"
     }
   },
   "shadows": {
     "default": {
+      "value": "{colors.gray.900}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.gray.900}"
     }
   },
   "border": {
     "default": {
+      "value": "{colors.gray.300}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.gray.300}"
     },
     "muted": {
+      "value": "{colors.gray.200}",
+      "type": "color",
       "$type": "color",
       "$value": "{colors.gray.200}"
     }
@@ -56,23 +78,43 @@
   "contrast": {
     "bg": {
       "default": {
+        "value": "{colors.gray.100}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.gray.100}"
       },
       "subtle": {
+        "value": "{colors.gray.100}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.gray.100}"
       }
     },
     "border": {
       "default": {
+        "value": "{colors.gray.700}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.gray.700}"
       },
       "muted": {
+        "value": "{colors.gray.700}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.gray.700}"
       }
+    }
+  },
+  "base-space": {
+    "value": "12px",
+    "type": "spacing",
+    "$type": "spacing",
+    "$value": "12px",
+    "reference-test": {
+      "value": "{base-space}",
+      "type": "spacing",
+      "$type": "spacing",
+      "$value": "{base-space}"
     }
   }
 }

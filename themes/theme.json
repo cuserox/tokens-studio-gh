@@ -2,39 +2,72 @@
   "button": {
     "primary": {
       "background": {
+        "value": "{accent.default}",
+        "type": "color",
         "$type": "color",
         "$value": "{accent.default}"
       },
       "text": {
+        "value": "{accent.onAccent}",
+        "type": "color",
         "$type": "color",
         "$value": "{accent.onAccent}"
       }
     },
     "borderRadius": {
+      "value": "{borderRadius.lg}",
+      "type": "borderRadius",
       "$type": "borderRadius",
       "$value": "{borderRadius.lg}"
     },
     "borderWidth": {
+      "value": "{dimension.sm}",
+      "type": "borderWidth",
       "$type": "borderWidth",
       "$value": "{dimension.sm}"
     }
   },
   "card": {
     "borderRadius": {
+      "value": "{borderRadius.lg}",
+      "type": "borderRadius",
       "$type": "borderRadius",
       "$value": "{borderRadius.lg}"
     },
     "background": {
+      "value": "{bg.default}",
+      "type": "color",
       "$type": "color",
       "$value": "{bg.default}"
     },
     "padding": {
+      "value": "{dimension.md}",
+      "type": "dimension",
       "$type": "dimension",
       "$value": "{dimension.md}"
     }
   },
   "boxShadow": {
     "default": {
+      "value": [
+        {
+          "x": "5",
+          "y": "5",
+          "spread": "3",
+          "color": "rgba({shadows.default}, 0.15)",
+          "blur": "5",
+          "type": "dropShadow"
+        },
+        {
+          "x": "4",
+          "y": "4",
+          "spread": "6",
+          "color": "#00000033",
+          "blur": "5",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
       "$type": "boxShadow",
       "$value": [
         {
@@ -59,6 +92,15 @@
   "typography": {
     "H1": {
       "Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingBold}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h1}",
+          "paragraphSpacing": "{paragraphSpacing.h1}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        },
+        "type": "typography",
         "$type": "typography",
         "$value": {
           "fontFamily": "{fontFamilies.heading}",
@@ -70,6 +112,15 @@
         }
       },
       "Regular": {
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingRegular}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h1}",
+          "paragraphSpacing": "{paragraphSpacing.h1}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        },
+        "type": "typography",
         "$type": "typography",
         "$value": {
           "fontFamily": "{fontFamilies.heading}",
@@ -83,6 +134,15 @@
     },
     "H2": {
       "Bold": {
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingBold}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h2}",
+          "paragraphSpacing": "{paragraphSpacing.h2}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        },
+        "type": "typography",
         "$type": "typography",
         "$value": {
           "fontFamily": "{fontFamilies.heading}",
@@ -94,6 +154,15 @@
         }
       },
       "Regular": {
+        "value": {
+          "fontFamily": "{fontFamilies.heading}",
+          "fontWeight": "{fontWeights.headingRegular}",
+          "lineHeight": "{lineHeights.heading}",
+          "fontSize": "{fontSizes.h2}",
+          "paragraphSpacing": "{paragraphSpacing.h2}",
+          "letterSpacing": "{letterSpacing.decreased}"
+        },
+        "type": "typography",
         "$type": "typography",
         "$value": {
           "fontFamily": "{fontFamilies.heading}",
@@ -106,6 +175,14 @@
       }
     },
     "Body": {
+      "value": {
+        "fontFamily": "{fontFamilies.body}",
+        "fontWeight": "{fontWeights.bodyRegular}",
+        "lineHeight": "{lineHeights.heading}",
+        "fontSize": "{fontSizes.body}",
+        "paragraphSpacing": "{paragraphSpacing.h2}"
+      },
+      "type": "typography",
       "$type": "typography",
       "$value": {
         "fontFamily": "{fontFamilies.body}",

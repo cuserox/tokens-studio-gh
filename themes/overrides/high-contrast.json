@@ -1,20 +1,28 @@
 {
   "bg": {
     "default": {
+      "value": "{contrast.bg.default}",
+      "type": "color",
       "$type": "color",
       "$value": "{contrast.bg.default}"
     },
     "subtle": {
+      "value": "{contrast.bg.subtle}",
+      "type": "color",
       "$type": "color",
       "$value": "{contrast.bg.subtle}"
     }
   },
   "border": {
     "default": {
+      "value": "{contrast.border.default}",
+      "type": "color",
       "$type": "color",
       "$value": "{contrast.border.default}"
     },
     "muted": {
+      "value": "{contrast.border.default}",
+      "type": "color",
       "$type": "color",
       "$value": "{contrast.border.default}"
     }

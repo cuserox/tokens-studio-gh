@@ -2,44 +2,64 @@
   "colors": {
     "onAccent": {
       "default": {
+        "value": "{colors.black}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.black}"
       }
     },
     "accent": {
       "100": {
+        "value": "{colors.yellow.100}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.100}"
       },
       "200": {
+        "value": "{colors.yellow.200}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.200}"
       },
       "300": {
+        "value": "{colors.yellow.300}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.300}"
       },
       "400": {
+        "value": "{colors.yellow.400}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.400}"
       },
       "500": {
+        "value": "{colors.yellow.500}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.500}"
       },
       "600": {
+        "value": "{colors.yellow.600}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.600}"
       },
       "700": {
+        "value": "{colors.yellow.700}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.700}"
       },
       "800": {
+        "value": "{colors.yellow.800}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.800}"
       },
       "900": {
+        "value": "{colors.yellow.900}",
+        "type": "color",
         "$type": "color",
         "$value": "{colors.yellow.900}"
       }
@@ -47,18 +67,24 @@
   },
   "Card": {
     "border-radius": {
+      "value": "0px",
+      "type": "borderRadius",
       "$type": "borderRadius",
       "$value": "0px"
     }
   },
   "Button": {
     "border-radius": {
+      "value": "0px",
+      "type": "borderRadius",
       "$type": "borderRadius",
       "$value": "0px"
     }
   },
   "Image": {
     "border-radius": {
+      "value": "0px",
+      "type": "borderRadius",
       "$type": "borderRadius",
       "$value": "0px"
     }
