@@ -1,9 +1,17 @@
 {
   "Fam": {
+    "value": "Inter",
+    "type": "fontFamilies",
     "$type": "fontFamilies",
     "$value": "Inter"
   },
   "Base": {
+    "value": {
+      "fontFamily": "{Fam}",
+      "fontSize": "12px",
+      "fontWeight": "Bold"
+    },
+    "type": "typography",
     "$type": "typography",
     "$value": {
       "fontFamily": "{Fam}",
@@ -17,14 +25,20 @@
         "modify": {}
       }
     },
+    "value": "Bold",
+    "type": "fontWeights",
     "$type": "fontWeights",
     "$value": "Bold"
   },
   "hot-pink": {
+    "value": "#fc04b2",
+    "type": "color",
     "$type": "color",
     "$value": "#fc04b2"
   },
   "hot-purple": {
+    "value": "#9602fc",
+    "type": "color",
     "$type": "color",
     "$value": "#9602fc"
   },
@@ -34,6 +48,12 @@
         "modify": {}
       }
     },
+    "value": {
+      "color": "{hot-pink}",
+      "width": "1px",
+      "style": "solid"
+    },
+    "type": "border",
     "$type": "border",
     "$value": {
       "color": "{hot-pink}",
@@ -42,6 +62,11 @@
     }
   },
   "Small": {
+    "value": {
+      "fontFamily": "{Fam}",
+      "fontSize": "8px"
+    },
+    "type": "typography",
     "$type": "typography",
     "$value": {
       "fontFamily": "{Fam}",
@@ -52,6 +77,11 @@
     "base-text": {
       "idle-status": {
         "square": {
+          "value": {
+            "typography": "{Base}",
+            "minWidth": "100px"
+          },
+          "type": "composition",
           "$type": "composition",
           "$value": {
             "typography": "{Base}",
@@ -63,6 +93,8 @@
     "idle-status": {
       "square-cta": {
         "title": {
+          "value": "{very-long-square.wrapping-text-behaviour-token-name.white-background-label-action.ghost-variant.large-cta-just-for-testing-purposes.try-and-break-this-search-box}",
+          "type": "typography",
           "$type": "typography",
           "$value": "{very-long-square.wrapping-text-behaviour-token-name.white-background-label-action.ghost-variant.large-cta-just-for-testing-purposes.try-and-break-this-search-box}"
         }
@@ -71,8 +103,10 @@
     "a-very-long-color-name": {
       "try-to-break": {
         "square-cta": {
+          "value": "#14f",
+          "type": "color",
           "$type": "color",
-          "$value": "#14f805"
+          "$value": "#14f"
         }
       }
     }
@@ -88,6 +122,13 @@
                   "modify": {}
                 }
               },
+              "value": {
+                "fontFamily": "Arial",
+                "fontWeight": "500",
+                "fontSize": "14px",
+                "lineHeight": "1.5"
+              },
+              "type": "typography",
               "$type": "typography",
               "$value": {
                 "fontFamily": "Arial",
@@ -102,16 +143,24 @@
     }
   },
   "give-me-a-super-long-color-name-to-break-the-search-like-highlight-button": {
+    "value": "#f08080",
+    "type": "color",
     "$type": "color",
     "$value": "#f08080"
   },
   "asdfghjkl;sdfghjkldfghjkldfghjklzfgdfghfdghsdghdfghdfghfgsdfgasdfsdfgsdghsdghdfghsdghsdf": {
+    "value": {
+      "fontFamily": "{Fam}"
+    },
+    "type": "typography",
     "$type": "typography",
     "$value": {
       "fontFamily": "{Fam}"
     }
   },
   "a-new-color-to-push": {
+    "value": "#eef492",
+    "type": "color",
     "$type": "color",
     "$value": "#eef492"
   }
