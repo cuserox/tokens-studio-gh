@@ -293,21 +293,5 @@
     },
     "$figmaCollectionId": "VariableCollectionId:538:6",
     "$figmaModeId": "538:4"
-  },
-  {
-    "id": "0970af08d30c32a3ddea3759f89f4e5085743c91",
-    "name": "variablesss",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "variables-test": "enabled"
-    },
-    "group": "Core",
-    "$figmaCollectionId": "VariableCollectionId:538:4",
-    "$figmaModeId": "538:5",
-    "$figmaVariableReferences": {
-      "red": "ce9d9dd1fc7882c9218afe9b650d71b77fdca800",
-      "yellow": "d4921a69a6c5e22b84f1a7237bd362113e34a0d4",
-      "rgba-vibe": "fe285a6960a737bc167d6995b7d3d7d6d9f8a6cf"
-    }
   }
 ]
