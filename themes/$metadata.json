@@ -9,7 +9,6 @@
     "overrides/brands/RedPlanet",
     "overrides/brands/YellowCab",
     "overrides/high-contrast",
-    "theme",
-    "variables-test"
+    "theme"
   ]
 }
