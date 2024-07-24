@@ -1,77 +1,77 @@
 {
   "fg": {
     "default": {
-      "$type": "color",
-      "$value": "{colors.black}"
+      "value": "{colors.black}",
+      "type": "color"
     },
     "muted": {
-      "$type": "color",
-      "$value": "{colors.gray.700}"
+      "value": "{colors.gray.700}",
+      "type": "color"
     },
     "subtle": {
-      "$type": "color",
-      "$value": "{colors.gray.600}"
+      "value": "{colors.gray.600}",
+      "type": "color"
     }
   },
   "bg": {
     "default": {
-      "$type": "color",
-      "$value": "{colors.white}"
+      "value": "{colors.white}",
+      "type": "color"
     },
     "subtle": {
-      "$type": "color",
-      "$value": "{colors.gray.200}"
+      "value": "{colors.gray.200}",
+      "type": "color"
     }
   },
   "accent": {
     "default": {
-      "$type": "color",
-      "$value": "{colors.accent.500}"
+      "value": "{colors.accent.500}",
+      "type": "color"
     },
     "onAccent": {
-      "$type": "color",
-      "$value": "{colors.onAccent.default}"
+      "value": "{colors.onAccent.default}",
+      "type": "color"
     },
     "bg": {
-      "$type": "color",
-      "$value": "{colors.accent.400}"
+      "value": "{colors.accent.400}",
+      "type": "color"
     }
   },
   "shadows": {
     "default": {
-      "$type": "color",
-      "$value": "{colors.gray.900}"
+      "value": "{colors.gray.900}",
+      "type": "color"
     }
   },
   "border": {
     "default": {
-      "$type": "color",
-      "$value": "{colors.gray.300}"
+      "value": "{colors.gray.300}",
+      "type": "color"
     },
     "muted": {
-      "$type": "color",
-      "$value": "{colors.gray.200}"
+      "value": "{colors.gray.200}",
+      "type": "color"
     }
   },
   "contrast": {
     "bg": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.gray.100}"
+        "value": "{colors.gray.100}",
+        "type": "color"
       },
       "subtle": {
-        "$type": "color",
-        "$value": "{colors.gray.100}"
+        "value": "{colors.gray.100}",
+        "type": "color"
       }
     },
     "border": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.gray.700}"
+        "value": "{colors.gray.700}",
+        "type": "color"
       },
       "muted": {
-        "$type": "color",
-        "$value": "{colors.gray.700}"
+        "value": "{colors.gray.700}",
+        "type": "color"
       }
     }
   }
