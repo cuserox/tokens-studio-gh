@@ -1,10 +1,22 @@
 {
   "bg": {
-    "default": {},
-    "subtle": {}
+    "default": {
+      "value": "{contrast.bg.default}",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "{contrast.bg.subtle}",
+      "type": "color"
+    }
   },
   "border": {
-    "default": {},
-    "muted": {}
+    "default": {
+      "value": "{contrast.border.default}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{contrast.border.default}",
+      "type": "color"
+    }
   }
 }
