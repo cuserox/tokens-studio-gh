@@ -2,65 +2,65 @@
   "colors": {
     "onAccent": {
       "default": {
-        "value": "{colors.white}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.white}"
       }
     },
     "accent": {
       "100": {
-        "value": "{colors.red.100}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.100}"
       },
       "200": {
-        "value": "{colors.red.200}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.200}"
       },
       "300": {
-        "value": "{colors.red.300}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.300}"
       },
       "400": {
-        "value": "{colors.red.400}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.400}"
       },
       "500": {
-        "value": "{colors.red.500}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.500}"
       },
       "600": {
-        "value": "{colors.red.600}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.600}"
       },
       "700": {
-        "value": "{colors.red.700}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.700}"
       },
       "800": {
-        "value": "{colors.red.800}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.800}"
       },
       "900": {
-        "value": "{colors.red.900}",
-        "type": "color"
+        "$type": "color",
+        "$value": "{colors.red.900}"
       }
     }
   },
   "Card": {
     "border-radius": {
-      "value": "{borderRadius.xl}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{borderRadius.xl}"
     }
   },
   "Button": {
     "border-radius": {
-      "value": "{borderRadius.sm}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{borderRadius.sm}"
     }
   },
   "Image": {
     "border-radius": {
-      "value": "{dimension.sm}",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "{dimension.sm}"
     }
   }
 }
