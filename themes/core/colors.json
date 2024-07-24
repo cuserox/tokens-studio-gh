@@ -1,6 +1,6 @@
 {
   "colors": {
-    "type": "color",
+    "$type": "color",
     "black": {
       "value": "#000000"
     },
