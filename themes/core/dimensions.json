@@ -1,188 +1,188 @@
 {
   "dimension": {
     "scale": {
-      "value": "2",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "2"
     },
     "xs": {
-      "value": "4",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "4"
     },
     "sm": {
-      "value": "{dimension.xs} * {dimension.scale}",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{dimension.xs} * {dimension.scale}"
     },
     "md": {
-      "value": "{dimension.sm} * {dimension.scale}",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{dimension.sm} * {dimension.scale}"
     },
     "lg": {
-      "value": "{dimension.md} * {dimension.scale}",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{dimension.md} * {dimension.scale}"
     },
     "xl": {
-      "value": "{dimension.lg} * {dimension.scale}",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "{dimension.lg} * {dimension.scale}"
     }
   },
   "spacing": {
     "xs": {
-      "value": "{dimension.xs}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{dimension.xs}"
     },
     "sm": {
-      "value": "{dimension.sm}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{dimension.sm}"
     },
     "md": {
-      "value": "{dimension.md}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{dimension.md}"
     },
     "lg": {
-      "value": "{dimension.lg}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{dimension.lg}"
     },
     "xl": {
-      "value": "{dimension.xl}",
-      "type": "spacing"
+      "$type": "spacing",
+      "$value": "{dimension.xl}"
     },
     "multi-value": {
-      "value": "{dimension.sm} {dimension.xl}",
-      "type": "spacing",
-      "description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
+      "$type": "spacing",
+      "$value": "{dimension.sm} {dimension.xl}",
+      "$description": "You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens"
     }
   },
   "borderRadius": {
     "sm": {
-      "value": "4",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "4"
     },
     "lg": {
-      "value": "8",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "8"
     },
     "xl": {
-      "value": "16",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "16"
     },
     "multi-value": {
-      "value": "{borderRadius.sm} {borderRadius.lg}",
-      "type": "borderRadius",
-      "description": "You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values"
+      "$type": "borderRadius",
+      "$value": "{borderRadius.sm} {borderRadius.lg}",
+      "$description": "You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values"
     }
   },
   "opacity": {
     "low": {
-      "value": "10%",
-      "type": "opacity"
+      "$type": "opacity",
+      "$value": "10%"
     },
     "md": {
-      "value": "50%",
-      "type": "opacity"
+      "$type": "opacity",
+      "$value": "50%"
     },
     "high": {
-      "value": "90%",
-      "type": "opacity"
+      "$type": "opacity",
+      "$value": "90%"
     }
   },
   "fontFamilies": {
     "heading": {
-      "value": "Inter",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Inter"
     },
     "body": {
-      "value": "Roboto",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Roboto"
     }
   },
   "lineHeights": {
     "heading": {
-      "value": "110%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "110%"
     },
     "body": {
-      "value": "140%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "140%"
     }
   },
   "letterSpacing": {
     "default": {
-      "value": "0",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0"
     },
     "increased": {
-      "value": "150%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "150%"
     },
     "decreased": {
-      "value": "-5%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "-5%"
     }
   },
   "paragraphSpacing": {
     "h1": {
-      "value": "32",
-      "type": "paragraphSpacing"
+      "$type": "paragraphSpacing",
+      "$value": "32"
     },
     "h2": {
-      "value": "26",
-      "type": "paragraphSpacing"
+      "$type": "paragraphSpacing",
+      "$value": "26"
     }
   },
   "fontWeights": {
     "headingRegular": {
-      "value": "Regular",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Regular"
     },
     "headingBold": {
-      "value": "Bold",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Bold"
     },
     "bodyRegular": {
-      "value": "Regular",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Regular"
     },
     "bodyBold": {
-      "value": "Bold",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Bold"
     }
   },
   "fontSizes": {
     "h1": {
-      "value": "{fontSizes.h2} * 1.25",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.h2} * 1.25"
     },
     "h2": {
-      "value": "{fontSizes.h3} * 1.25",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.h3} * 1.25"
     },
     "h3": {
-      "value": "{fontSizes.h4} * 1.25",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.h4} * 1.25"
     },
     "h4": {
-      "value": "{fontSizes.h5} * 1.25",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.h5} * 1.25"
     },
     "h5": {
-      "value": "{fontSizes.h6} * 1.25",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.h6} * 1.25"
     },
     "h6": {
-      "value": "{fontSizes.body} * 1",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.body} * 1"
     },
     "body": {
-      "value": "16",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "16"
     },
     "sm": {
-      "value": "{fontSizes.body} * 0.85",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.body} * 0.85"
     },
     "xs": {
-      "value": "{fontSizes.body} * 0.65",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "{fontSizes.body} * 0.65"
     }
   }
 }
