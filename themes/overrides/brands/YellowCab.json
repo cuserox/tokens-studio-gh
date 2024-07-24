@@ -2,65 +2,65 @@
   "colors": {
     "onAccent": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.black}"
+        "value": "{colors.black}",
+        "type": "color"
       }
     },
     "accent": {
       "100": {
-        "$type": "color",
-        "$value": "{colors.yellow.100}"
+        "value": "{colors.yellow.100}",
+        "type": "color"
       },
       "200": {
-        "$type": "color",
-        "$value": "{colors.yellow.200}"
+        "value": "{colors.yellow.200}",
+        "type": "color"
       },
       "300": {
-        "$type": "color",
-        "$value": "{colors.yellow.300}"
+        "value": "{colors.yellow.300}",
+        "type": "color"
       },
       "400": {
-        "$type": "color",
-        "$value": "{colors.yellow.400}"
+        "value": "{colors.yellow.400}",
+        "type": "color"
       },
       "500": {
-        "$type": "color",
-        "$value": "{colors.yellow.500}"
+        "value": "{colors.yellow.500}",
+        "type": "color"
       },
       "600": {
-        "$type": "color",
-        "$value": "{colors.yellow.600}"
+        "value": "{colors.yellow.600}",
+        "type": "color"
       },
       "700": {
-        "$type": "color",
-        "$value": "{colors.yellow.700}"
+        "value": "{colors.yellow.700}",
+        "type": "color"
       },
       "800": {
-        "$type": "color",
-        "$value": "{colors.yellow.800}"
+        "value": "{colors.yellow.800}",
+        "type": "color"
       },
       "900": {
-        "$type": "color",
-        "$value": "{colors.yellow.900}"
+        "value": "{colors.yellow.900}",
+        "type": "color"
       }
     }
   },
   "Card": {
     "border-radius": {
-      "$type": "borderRadius",
-      "$value": "0px"
+      "value": "0px",
+      "type": "borderRadius"
     }
   },
   "Button": {
     "border-radius": {
-      "$type": "borderRadius",
-      "$value": "0px"
+      "value": "0px",
+      "type": "borderRadius"
     }
   },
   "Image": {
     "border-radius": {
-      "$type": "borderRadius",
-      "$value": "0px"
+      "value": "0px",
+      "type": "borderRadius"
     }
   }
 }
