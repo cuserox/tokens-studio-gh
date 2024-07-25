@@ -159,6 +159,10 @@
         "value": "#744210",
         "type": "color"
       }
+    },
+    "new-one": {
+      "value": "#f0b000",
+      "type": "color"
     }
   }
 }
