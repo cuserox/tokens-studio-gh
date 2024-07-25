@@ -2,46 +2,46 @@
   "colors": {
     "onAccent": {
       "default": {
-        "$type": "color",
-        "$value": "{colors.white}"
+        "value": "{colors.white}",
+        "type": "color"
       }
     },
     "accent": {
       "100": {
-        "$type": "color",
-        "$value": "{colors.blue.100}"
+        "value": "{colors.blue.100}",
+        "type": "color"
       },
       "200": {
-        "$type": "color",
-        "$value": "{colors.blue.200}"
+        "value": "{colors.blue.200}",
+        "type": "color"
       },
       "300": {
-        "$type": "color",
-        "$value": "{colors.blue.300}"
+        "value": "{colors.blue.300}",
+        "type": "color"
       },
       "400": {
-        "$type": "color",
-        "$value": "{colors.blue.400}"
+        "value": "{colors.blue.400}",
+        "type": "color"
       },
       "500": {
-        "$type": "color",
-        "$value": "{colors.blue.500}"
+        "value": "{colors.blue.500}",
+        "type": "color"
       },
       "600": {
-        "$type": "color",
-        "$value": "{colors.blue.600}"
+        "value": "{colors.blue.600}",
+        "type": "color"
       },
       "700": {
-        "$type": "color",
-        "$value": "{colors.blue.700}"
+        "value": "{colors.blue.700}",
+        "type": "color"
       },
       "800": {
-        "$type": "color",
-        "$value": "{colors.blue.800}"
+        "value": "{colors.blue.800}",
+        "type": "color"
       },
       "900": {
-        "$type": "color",
-        "$value": "{colors.blue.900}"
+        "value": "{colors.blue.900}",
+        "type": "color"
       }
     }
   }
