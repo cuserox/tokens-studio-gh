@@ -9,6 +9,10 @@
       "value": "#ffffff",
       "type": "color"
     },
+    "white-copy": {
+      "value": "#ffffff",
+      "type": "color"
+    },
     "gray": {
       "100": {
         "value": "#f7fafc",
