@@ -1,14 +1,7 @@
 {
   "tokenSetOrder": [
-    "core/colors",
-    "core/defaults",
-    "core/dimensions",
-    "core/high-contrast",
-    "light/primitives",
-    "dark/primitives",
-    "overrides/brands/RedPlanet",
-    "overrides/brands/YellowCab",
-    "overrides/high-contrast",
-    "theme"
+    "base",
+    "red-brand",
+    "yellow-brand"
   ]
 }
