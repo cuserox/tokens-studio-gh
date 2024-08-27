@@ -3,11 +3,7 @@
     "id": "2aed042f5c08aa45c9851aa615e1056b11483980",
     "name": "base",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "base": "disabled",
-      "red-brand": "disabled",
-      "yellow-brand": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:204:31",
     "$figmaModeId": "204:13",
     "$figmaVariableReferences": {
@@ -20,11 +16,7 @@
     "id": "af2ce8b6a57e220571111db4e1be58841871b99d",
     "name": "edited",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "base": "disabled",
-      "red-brand": "disabled",
-      "yellow-brand": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:204:31",
     "$figmaModeId": "204:14",
     "$figmaVariableReferences": {
