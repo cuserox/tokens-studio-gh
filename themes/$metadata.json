@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "base",
     "red-brand",
-    "yellow-brand"
+    "yellow-brand",
+    "green-brand"
   ]
 }
