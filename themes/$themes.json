@@ -4,8 +4,7 @@
     "name": "base",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "green-brand/light": "disabled",
-      "green-brand/dark": "disabled"
+      "base": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:204:31",
     "$figmaModeId": "204:13",
@@ -20,8 +19,9 @@
     "name": "edited",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "green-brand/light": "disabled",
-      "green-brand/dark": "disabled"
+      "green-brand": "enabled",
+      "green-brand/dark": "enabled",
+      "green-brand/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:204:31",
     "$figmaModeId": "204:14",
