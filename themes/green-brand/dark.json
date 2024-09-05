@@ -1,0 +1,15 @@
+{
+  "dark-green-brand-color": {
+    "value": "#05f535",
+    "type": "color",
+    "$extensions": {
+      "studio.tokens": {
+        "modify": {
+          "type": "darken",
+          "value": "0.5",
+          "space": "lch"
+        }
+      }
+    }
+  }
+}

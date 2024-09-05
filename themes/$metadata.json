@@ -3,6 +3,8 @@
     "base",
     "red-brand",
     "yellow-brand",
-    "green-brand"
+    "green-brand",
+    "green-brand/dark",
+    "green-brand/light"
   ]
 }
